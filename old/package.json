@@ -22,7 +22,7 @@
     "@poppinss/fancy-logs": "^1.3.9",
     "better-sqlite3": "^7.5.1",
     "discord-eris-embeds": "^1.0.4",
-    "dotenv": "^16.0.0",
+    "dotenv": "^16.5.0",
     "eris": "^0.16.1",
     "express": "^4.17.3",
     "fancy-log": "^2.0.0",
